@@ -1,0 +1,35 @@
+.hd {
+    padding-left: 5px;
+    line-height: 25px;
+    background: #949494 url(https://www.incometaxindiaefiling.gov.in/itax/images/form_hd.png);
+    color: #333;
+    clear: both;
+    font-weight: 500;
+    font-size: 12px;
+    border: 1px solid #9db0bc;
+    border-left: none;
+    border-right: none;
+}
+
+.submitbtn {
+    padding-top: 4px !important;
+    width: 135px;
+}
+
+.ITRActionbtn {
+    background: rgba(0, 0, 0, 0) url("https://www.incometaxindiaefiling.gov.in/itax/images/bg.png") repeat-x scroll 0 -439px;
+    border: 1px solid #adb9c2;
+    border-radius: 5px;
+    min-width: 310px;
+    padding: 0 4px 2px 2px;
+    text-align: center;
+    width: 375px;
+}
+
+.confirmBTN {
+    background: url("https://www.incometaxindiaefiling.gov.in/itax/images/bg.png") repeat-x scroll left -28px #fff;
+    border: 1px solid #222;
+    cursor: pointer;
+    padding: 4px;
+}
+        
